@@ -1,5 +1,6 @@
 .idea
 src/.env
+src/venv
 src/.env.backup
 static
 media
